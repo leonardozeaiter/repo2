@@ -1,3 +1,1 @@
-const add = (x,y) => x+y;
-
-const subtract = (x,y) => x - y;
+var r = 9;
